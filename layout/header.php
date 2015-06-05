@@ -9,7 +9,7 @@
 				<li><a href="/"><i class="glyphicon glyphicon-home"></i> Accueil</a></li>
 				<li><a href="/"><i class="glyphicon glyphicon-user"></i> CV</a></li>
 				<li><a href="/"><i class="glyphicon glyphicon-pencil"></i> Blog</a></li>
-				<li><a href="/"><i class="glyphicon glyphicon-briefcase"></i> Projets</a></li>
+				<li><a href="/projects.php"><i class="glyphicon glyphicon-briefcase"></i> Projets</a></li>
 			</ul>
 		</div>
 	</nav>

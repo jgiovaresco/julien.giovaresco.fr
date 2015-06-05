@@ -25,7 +25,7 @@
 
 		<p class="lead text-center">
 			Ce site a pour but de présenter mon <a href="/" class="label label-primary">CV</a> ainsi que mes
-			<a href="/" class="label label-primary">projets</a> personnels.
+			<a href="/projects.php" class="label label-primary">projets</a> personnels.
 		</p>
 	</div>
 
