@@ -1,0 +1,50 @@
+/*------------------------------------------*\
+    Resume
+\*------------------------------------------*/
+h2.my-caption {
+    border-bottom: 1px dotted;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+h3.my-caption {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+h4.my-caption {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+}
+.my-info {
+    margin: 0;
+}
+.my-info > span {
+    float: right;
+}
+.my-info > i {
+    margin-right: 3px;
+}
+
+.place:before {
+    content: "à ";
+    margin-left: 3%;
+}
+.place {
+    padding: 0;
+    margin: 0 0 0;
+}
+.mission {
+    border-bottom: 1px dotted;
+}
+
+.mission aside {
+    margin-top: 1em;
+    margin-left: 5em;
+}
