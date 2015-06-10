@@ -24,7 +24,7 @@
 	<div class="container">
 		<?php
 
-		$xslFile = './resume/html.xsl';
+		$xslFile = './xsl/resume-html.xsl';
 		$resumeFile = 'https://raw.githubusercontent.com/jgiovaresco/my-resume/master/xml/resume.xml';
 
 		$xsl = new DOMDocument();
