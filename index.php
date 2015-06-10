@@ -24,8 +24,8 @@
 		<h1 class="text-center">Bienvenue</h1>
 
 		<p class="lead text-center">
-			Ce site a pour but de présenter mon <a href="/resume.php" class="label label-primary">CV</a> ainsi que mes
-			<a href="/projects.php" class="label label-primary">projets</a> personnels.
+			Ce site a pour but de présenter mon <a href="/myresume" class="label label-primary">CV</a> ainsi que mes
+			<a href="/projects" class="label label-primary">projets</a> personnels.
 		</p>
 	</div>
 
